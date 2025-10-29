@@ -17,7 +17,6 @@ public class ejercicio12 {
             }
         }
 
-        // Caracteres que están en str2 pero no en str1
         for (int i = 0; i < str2.length(); i++) {
             char c = str2.charAt(i);
             if (str1.indexOf(c) == -1) { 
