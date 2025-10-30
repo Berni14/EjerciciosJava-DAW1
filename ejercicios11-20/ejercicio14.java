@@ -18,4 +18,6 @@ public class ejercicio14 {
         factorial(numero);
         sc.close();
     }
+
 }
+
